@@ -1,2 +1,2 @@
-# -odin-recipes
+# odin-recipes
 A collection of Random recipes
